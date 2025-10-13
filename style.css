@@ -1,15 +1,15 @@
+body{
+  color:white;
+  background:blue;
+  margin:0px
+}
 
-
-
-
-
-
-
-
-
-
-
-
+header{
+  border-bottom:silida 2px rgb(42,122,228);
+  padding:20px;
+  font-size:32px;
+  color:rgb(42,122,228);
+}
 section{
   background:rgb(184,156,213);
   padding-bottom:80px
